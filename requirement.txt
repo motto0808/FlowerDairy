@@ -1,0 +1,37 @@
+植物资料
+	图例（1-3张）
+	名称/name
+	学名/scientific name（其实没什么用）
+	分类/classification （AA科BB属）
+	光照/light（喜阴还是喜阳）
+	花期/flowering phase
+	适宜温度/temperature
+
+我的花园
+	我的植物列表（可以按照植物分类筛选）
+		日记
+		养护提醒（应该可以针对工作日和休息日设置不同的提醒时间和策略等）
+			浇水/watering
+			施肥/fertilize
+			喷雾/spray
+			修剪/trim
+			繁殖/propagate
+		养护记录（可以是类似签到打卡，有某种虚拟奖励）
+		植物资料
+
+	植物分类
+		多肉/succulent
+		观叶/foliage
+		观花/flower
+		蔬菜/vegetable
+		水果/fruit
+		香草/herb
+		自定义
+
+养护事项（待办事项）
+	需要浇水的
+	需要喷雾的
+	需要施肥的
+	等等。。。
+	
+
